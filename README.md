@@ -1,4 +1,4 @@
-word2vec-api
+word2vec-api yns
 ============
 
 Simple web service providing a word embedding API. The methods are based on Gensim Word2Vec implementation. Models are passed as parameters and must be in the Word2Vec text or binary format.
